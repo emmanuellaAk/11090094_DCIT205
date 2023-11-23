@@ -6,6 +6,8 @@
   height: 100px;
   width: 1200px;
   margin-left: 140px;
+  z-index: -10;
+  position: relative;
 }
 .left-section{
   display: flex;

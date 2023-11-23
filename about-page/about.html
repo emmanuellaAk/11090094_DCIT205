@@ -5,12 +5,12 @@
     <link rel="stylesheet" href="header.css">
     <link rel="stylesheet" href="footer.css">
     <link rel="stylesheet" href="workspace.css">
-    <link rel="stylesheet" href="information.css">
-    <link rel="stylesheet" href="navigation.css">
-    <link rel="stylesheet" href="imageArea.css">
-    <link rel="stylesheet" href="infoArea.css">
+    <link rel="stylesheet" href="about.css">
+
   </head>
+
 <body>
+
   <div class="header">
     <div class="left-section">
       <img class="comp-logo" src="comScience_logo.png">
@@ -24,6 +24,95 @@
     </div>
   </div>
 
+   <div class="everything">
+      <div class="slider-container">
+    
+      <div class="slider">
+       <div class="slide">
+          <div class="image" style="height: 30%;"><img src="download.jpeg" style="height: 100%; width: 100%; object-fit: cover;"></div>
+          <div><h2>COMPUTER SCIENCE IN UG</h2></div>
+          <div>
+          <p>Computer science involves the study and development of applications that allow for our everyday use of computers, the software systems that support these applications, and the means and methods used to produce both applications and systems that behave reliably, correctly and ethically.</p>
+          <p>At the heart of Computer Science lies the skill of computer programming and employers who hire Computer Scientists expect adept programmers with knowledge of current techniques and tools and the ability to apply sound engineering principles to the     development, construction and maintenance of computer programs.</p> 
+          <p>The range of courses available in the department and the skills acquired by students enable them to find employment in many diverse fields of the economy and prepare our graduates for the computing industry, working in a project team (or research and development team), and to enable the graduate to bring specialist skills to that team. The course also provides the platform for further study or research through exposure to established and emerging technologies and methods, and to active fields of research in Computer Science.</p>
+         <p>The Department offers two undergraduate degree programmes, Bachelor of Science in Computer Science Single-Major (3:2:1:1) and  Major-Minor (3:2:2:1) as well as Bachelor of Science in Information Technology.</div></p>
+      </div>
+     
+      <div class="slide">
+        <div class="image" style="height: 30%;"><img src="download.jpeg" style="height: 100%; width: 100%; object-fit: cover;"></div>
+        <div><h2>OUR ORGANIZATION</h2></div>
+        <p>The University of Ghana is one of the Africa's most prominent public universities.</p> 
+        <p>Our impact on individuals, our region and the world is profound, whether we are launching young people into a boundless future or confronting the grand challenges of our time through dauntless research.</p>
+        <p>UG educates more than 38,000students annually, with approximately 2.64% being computer science students. We turn ideas into impact and transform the world around us.</p>
+        <p>At UG, we take pride in the pivotal role we play in shaping the future. By empowering and launching young minds into a boundless future, we contribute to the development of a new generation of leaders, thinkers, and innovators.</p>
+        <p>Our educational programs are designed to provide students with a well-rounded and transformative learning experience, equipping them with the skills and knowledge needed to thrive in an ever-changing world.</p>
+       </div>
+  
+        <div class="slide">
+        <div class="image" style="height: 30%;"><img src="download.jpeg" style="height: 100%; width: 100%; object-fit: cover;"></div>
+        <div><h2>OUR COMMUNITY</h2></div>
+        <p>If you are inspired by a big challenge, you've come to the right place!</p>
+        <p>Our computer science programs are designed to provide students with more than just theoretical knowledge.</p> 
+        <p>We offer a hands-on and innovative learning environment where students have the opportunity to engage with cutting-edge technologies. From artificial intelligence and data science to cybersecurity and software development, our curriculum is crafted to keep pace with the rapidly evolving field of computer science.</p>
+        <p>Through group projects,code drills, and collaborative research initiatives, we encourage our community members to learn from each other, building a network of support that extends beyond the classroom.</p>
+        <p>Our community is well-connected with the industry. We facilitate interactions with professionals, organize guest lectures, and provide internship opportunities that bridge the gap between academia and the tech industry </p>
+        <p>Join the vibrant and forward-thinking computer science community at the University of Ghana, where challenges are embraced, boundaries are pushed, and the future of technology is shaped by the next generation of innovators and leaders.</p>
+       </div>
+      
+       <div class="slide">
+       <div class="image" style="height: 30%;"><img src="download.jpeg" style="height: 100%; width: 100%; object-fit: cover;"></div>
+       <div><h2>Distance Learning</h2></div>
+       <p>Experience a UG-CDCD classroom from wherever you are.</p>
+       <p>We bring the UG-CDCD (University of Ghana - Center for Distance and Continuing Education) classroom experience to your fingertips, allowing you to tailor your education to fit your schedule and lifestyle, regardless of your physical location.</p>
+       <p>Take advantage of real-time lectures and personal interaction with professors through a suite of online delivery options, customizing your degree to fit your schedule.</p>
+       <p>Join a diverse and global community of learners. Our distance learning programs attract students from various backgrounds and locations, fostering a rich and inclusive learning environment.</p> 
+       <p>At UG's Computer Science Department, we prioritize personal interaction between students and professors, even in the virtual space. Our faculty members are committed to providing the same level of support and engagement as in traditional classrooms.</p>
+       <p>Our online classroom maintains the same level of academic rigor, while providing students with more ways of learning so seize the opportunity to advance your career and academic pursuits with the flexibility and excellence of our distance learning programs.</p>
+      </div>
+  
+      <div class="slide">
+      <div class="image" style="height: 30%;"><img src="download.jpeg" style="height: 100%; width: 100%; object-fit: cover;"></div>
+      <div><h2>Building Our Future</h2></div>
+      <p>Building our future in the Computer Science Department at the University of Ghana is not just an academic pursuit; it's a collective commitment to realizing infinite possibilities and fostering unshakable optimism.</p>
+      <p>Our students, faculty, and community members share a common thread—a deep belief in the transformative power of education, innovation, and collaboration.</p> 
+      <p>At the heart of our community is a connection that transcends geographical boundaries. We bring together individuals from diverse backgrounds, creating a global network that enriches the learning experience.</p>
+      <p>Through collaborative projects, international partnerships, and interactions with experts in the field, you'll have the opportunity to connect with others near and far, broadening your perspectives and expanding your horizons.</p>
+     </div>
+  
+     </div>
+  
+    <div class="navigation">
+      <button class="nav-btn" onclick="prevSlide()">Previous</button>
+      <button class="nav-btn" onclick="nextSlide()">Next</button>
+    </div>
+  </div>
+  </div>
+</div>
+  
+  
+  <script>
+    const slider = document.querySelector('.slider');
+    const slides = document.querySelectorAll('.slide');
+    let currentIndex = 0;
+  
+    function updateSlider() {
+      slider.style.transform = `translateX(${-currentIndex * 100}%)`;
+    }
+  
+    function prevSlide() {
+      currentIndex = (currentIndex - 1 + slides.length) % slides.length;
+      updateSlider();
+    }
+  
+    function nextSlide() {
+      currentIndex = (currentIndex + 1) % slides.length;
+      updateSlider();
+    }
+  </script>
+  
+  </body>
+  </html>
+   
   
 
 
