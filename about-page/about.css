@@ -49,16 +49,15 @@ p{
 }
 .everything{
   display: flex;
-  height: 300px;
-  width: 1000px;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #f4f4f4;
   position: relative;
   z-index: -10;
-  top: 200px;
+  top: 10px;
   left: 250px;
 }
