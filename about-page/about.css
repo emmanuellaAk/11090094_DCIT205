@@ -57,10 +57,8 @@ p{
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 50vh;
-  background-color: #f4f4f4;
   position: relative;
   z-index: -10;
-  top: 300px;
+  top: 200px;
   left: 250px;
 }

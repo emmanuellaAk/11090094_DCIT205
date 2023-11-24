@@ -1,0 +1,39 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  border: solid 3px black;
+  justify-content: space-between;
+  height: 100px;
+  width: 1200px;
+  margin-left: 140px;
+  z-index: -10;
+  position: relative;
+}
+.left-section{
+  display: flex;
+}
+.comp-logo{
+  width: 250px;
+  object-fit: contain;
+}
+.right-section{
+  display: flex;
+  width: 400px;
+  align-items: center;
+  justify-content: space-between;
+}
+.button-area{
+   padding-left: 8px;
+   padding-right: 8px; 
+   font-size: 16px;
+   font-weight: 500;
+   border: none;
+   background-color: transparent;
+   font-family: poppins, sans-serif;
+}
+button:hover{
+  color: rgb(189, 148, 108);
+}
+body{
+  padding: 30px 70px 30px 70px;
+}
