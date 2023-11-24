@@ -4,8 +4,9 @@
   border: solid 3px black;
   justify-content: space-between;
   height: 100px;
-  width: 1200px;
+  width: 1500px;
   margin-left: 140px;
+  margin-right: 140px;
   z-index: -10;
   position: relative;
 }
