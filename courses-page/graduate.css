@@ -1,26 +1,3 @@
-.workarea{
- border: 1px solid black;
- height: 1000px;
- vertical-align: top;
- margin-right: 140px;
- margin-left: 140px;
- width: 1500px;
-}
-
-.navigation{
-  border: 1px solid black;
-  height: 1000px;
-  vertical-align: top; 
-  width: 400px;
-  display: inline-block;
-
-}
-
-.infoArea{
-  border: 1px solid black;
-  height: 1000px;
-  vertical-align: top; 
-  width: 1087px;
-  margin-left: 3px;
-  display: inline-block;
+html{
+  scroll-behavior: smooth;
 }
