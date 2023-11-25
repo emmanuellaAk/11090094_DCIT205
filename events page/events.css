@@ -1,8 +1,6 @@
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
-  padding: 10;
-  min-height: 100vh;
   background-color: #2c2a58;
 }
 
@@ -13,10 +11,6 @@ section {
   padding: 2em;
   margin-top: 20px;
 }
-.cmodal{
-  z-index: 2;
-}
-
 
 h2{
   color: #BD9C6C;

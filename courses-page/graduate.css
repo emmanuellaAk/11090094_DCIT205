@@ -4,7 +4,7 @@ html{
 .container{
   display: flex;
   flex-direction: row;
-  padding: 100px;
+  
 }
 .navigation{
   display: flex;
@@ -12,9 +12,7 @@ html{
   justify-content: space-between;
   align-items: center;
   position: fixed;
-
   margin-left: 50px;
-  background-color: #2c2a58;
 }
 .everythingg{
   margin-left: 650px;

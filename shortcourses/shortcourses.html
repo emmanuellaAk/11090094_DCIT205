@@ -23,42 +23,59 @@
       <button class="button-area">Short Courses</button>
     </div>
    </div>
-
-   
+       
+         <div class="introduction" style="text-align:center;">
+          <h1>Join our Short course Program</h1>
+          <p>Our eight week intensive certificate course is open to senior high school graduates, tertiary students, school graduates, workers and the general public.</p>
+          <p>To be able to take full advantage of the opportunities available to this technology driven era, it is important to acquire new skills. Skills in ICT that will springboard your career</p>
+          <p>Our instructors have years of industry experience which presents students with a unique opportunity of learning from the best</p>
+          <p>You earn a certificate of completion from the department after completing and passing the prescribed exam</p>
+          <p>Click on The Register Button below to apply for any of the courses.</p>
+            <button onclick="redirectToAnotherPage()">REGISTER</button>
+         </div>
+         
 
     <section class="course" id="course1">
-        <img src="course1.jpg" alt="Course 1 Image">
+        <div class="img" style="border: solid 3px black; height: 200px; width: 100%;">
+          <img src="Web Dev.png" alt="Course 1 Image" style="height: 100%; object-fit: cover; width: 100%;">
+        </div>
+      
         <div class="course-info">
-            <h2>Artificial Intelligence Essentials</h2>
-            <p>Unlock the power of AI with hands-on projects and real-world applications.</p>
-            <a href="#" class="button">Learn More</a>
+            <h2>Introduction To Web Programming</h2>
+            <p>Understand the fundamentals of web technologies and create web-based
+            applications with latest technologies.</p>
         </div>
     </section>
 
     <section class="course" id="course2">
-        <img src="course2.jpg" alt="Course 2 Image">
+      <div class="img" style="border: solid 3px black; height: 200px; width: 100%; object-fit: cover; overflow: hidden;">
+        <img src="CISCO.png" alt="Course 1 Image" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+
         <div class="course-info">
-            <h2>Creative Web Design</h2>
-            <p>Master the art of web design with innovative concepts and modern techniques.</p>
-            <a href="#" class="button">Learn More</a>
+            <h2>Computer Network Fundamental [CCNA]</h2>
+            <p>We provide quality training for students to become a Cisco Certified Network Associate (CCNA).</p>
         </div>
     </section>
 
     <section class="course" id="course3">
-        <img src="course3.jpg" alt="Course 3 Image">
+      <div class="img" style="border: solid 3px black; height: 200px; width: 100%; object-fit: cover; overflow: hidden;">
+        <img src="Cyber Security.jpg" alt="Course 1 Image" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+
         <div class="course-info">
-            <h2>Photography Basics</h2>
-            <p>Capture the moment with our photography course covering fundamentals and techniques.</p>
-            <a href="#" class="button">Learn More</a>
+            <h2>Information Security and Ethical Hacking</h2>
+            <p>Learn the various techniques used to secure a computer system from attacks through hacking.</p>
         </div>
     </section>
 
     <section class="course" id="course4">
-        <img src="course4.jpg" alt="Course 4 Image">
+      <div class="img" style="border: solid 3px black; height: 200px; width: 100%; object-fit: cover; overflow: hidden;">
+        <img src="Mobile-App.jpg" alt="Course 1 Image" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
         <div class="course-info">
             <h2>Mobile App Development</h2>
-            <p>Build responsive and user-friendly mobile apps with the latest development tools.</p>
-            <a href="#" class="button">Learn More</a>
+            <p>We provide world class technologies for Mobile Application Development using the mobile-first worklight by IBM</p>
         </div>
     </section>
 
@@ -88,18 +105,20 @@
       </div>
    </div>
  
+   <script>
+    function redirectToAnotherPage() {
+        
+        var destinationPage = "survey.html";
 
+        
+        window.location.href = destinationPage;
+    }
+</script>
    
 </body>
 </html>
 
     
-</section>
-
-<section id="about">
-    <h2>About Us</h2>
-    <p>Discover the excellence and tradition of the University of Ghana in providing quality education.</p>
-</section>
 
 </body>
 </html>
