@@ -1,6 +1,7 @@
 .header{
   display: flex;
   flex-direction: row;
+  border: solid 3px black;
   justify-content: space-between;
   margin-bottom: 30px;
   height: 100px;
@@ -22,8 +23,6 @@
    font-weight: bold;
    border: none;
    font-family: poppins, sans-serif;
-   background-color: transparent;
-   color: white;
 }
 button:hover{
   color: rgb(189, 148, 108);

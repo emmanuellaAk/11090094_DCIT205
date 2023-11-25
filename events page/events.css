@@ -1,9 +1,9 @@
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
-  padding: 0;
-  background-color: #f4f4f4;
+  padding: 10;
   min-height: 100vh;
+  background-color: #2c2a58;
 }
 
 section {
@@ -12,6 +12,18 @@ section {
   justify-content: center;
   padding: 2em;
   margin-top: 20px;
+}
+.cmodal{
+  z-index: 2;
+}
+
+
+h2{
+  color: #BD9C6C;
+}
+
+p{
+  font-size: 20px;
 }
 
 .event-card {
@@ -39,6 +51,7 @@ section {
   background-color: rgba(0, 0, 0, 0.7);
   justify-content: center;
   align-items: center;
+  z-index: 2;
 }
 
 .modal-content {
