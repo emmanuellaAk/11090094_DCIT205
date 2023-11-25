@@ -1,3 +1,29 @@
 html{
   scroll-behavior: smooth;
 }
+.container{
+  display: flex;
+  flex-direction: row;
+  padding: 100px;
+}
+.navigation{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+
+  margin-left: 50px;
+  background-color: #2c2a58;
+}
+.everythingg{
+  margin-left: 650px;
+  font-size: 16;
+  position: fixed;
+}
+
+p{
+  width: 400px;
+}
+
+
