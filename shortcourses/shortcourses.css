@@ -5,6 +5,21 @@ body {
   background-color: #f4f4f4;
 }
 
+.introduction p {
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.btt{
+  color: #2C2A58;
+  background-color: #BD9C6C;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 1000px;
+}
+
 header {
   background-color: #333;
   color: white;
@@ -32,6 +47,9 @@ header {
 
 .course-info {
   padding: 20px;
+}
+.introduction p {
+  font-size: 20px;
 }
 
 .course h2 {
@@ -64,6 +82,10 @@ footer {
   position: fixed;
   bottom: 0;
   width: 100%;
+}
+
+label{
+  font-weight: bold;
 }
 
 
