@@ -3,8 +3,19 @@ html{
 }
 .container{
   display: flex;
-  flex-direction: row;
   
+  
+}
+
+.container section{
+  flex: 2;
+  margin-right: 20px;
+}
+.container section h1{
+  text-align: center;
+}
+.container section p{
+  text-align: justify;
 }
 .navigation{
   display: flex;
@@ -15,11 +26,15 @@ html{
   margin-left: 50px;
 }
 .everythingg{
-  margin-left: 650px;
-  font-size: 16px;
+  margin-left: 700px;
+  font-size: 36px;
 }
 
 p{
+  width: 400px;
+}
+
+section{
   width: 400px;
 }
 
