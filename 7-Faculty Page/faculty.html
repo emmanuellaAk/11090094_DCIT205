@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="footer.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .lectures-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin: -10px; 
+        }
+
+        .lecture {
+            width: calc(33.33% - 20px);
+            margin: 10px;
+            text-align: center;
+        }
+
+        .lecture img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+    </style>
+    <title>Faculty Page</title>
+</head>
+<body>
+  <div class="header" id="main-header">
+    <div class="left-section">
+      <img class="comp-logo" src="comScience_logo.png">
+    </div>
+    <div class="right-section">
+      <button class="button-area">Admissions</button>
+      <button class="button-area"></button>
+      <button class="button-area">Faculty</button>
+      <button class="button-area">Research Groups</button>
+      <button class="button-area">More</button>
+    </div>
+   </div>
+            <h1 style="text-align: center;">OUR FACULTY</h1>
+    <h3>Our faculty brings a wealth of expertise to the classroom, equipping students with the skills and knowledge needed to thrive in the ever-evolving field of computer science. Explore our faculty profiles to discover the diverse backgrounds, research interests, and real-world experiences that contribute to the rich tapestry of our Computer Science department.</h3>
+
+    <div class="lectures-container">
+        <div class="lecture">
+            <h2>Lecturer/Course Advisor: Mark Atta Mensah</h2>
+            <img src="lecturer.jpg" alt="Lecture 1 Image">
+        </div>
+
+        <div class="lecture">
+            <h2>Lecturer: Abdullai Aziz Dwumfuor</h2>
+            <img src="lect1.jpg" alt="Lecture 2 Image">
+        </div>
+
+        <div class="lecture">
+            <h2>Lecturer: Michael Tetteh Agbo Soli</h2>
+            <img src="lect2.jpg" alt="Lecture 3 Image">
+        </div>
+    </div>
+
+    <div class="lectures-container">
+        <div class="lecture">
+            <h2>Lecturer: Jamal-Deen Abdulai</h2>
+            <img src="lect3.jpg" alt="Lecture 4 Image">
+        </div>
+
+        <div class="lecture">
+            <h2>Lecturer: Juluis Ludu</h2>
+            <img src="lect4.jpg" alt="Lecture 5 Image">
+        </div>
+    </div>
+
+    <div class="footer">
+      <div>
+       <p>Contact Us:</p>
+       <p>Phone:</p>
+       <p>+233 501 382 035</p>
+       <p>+233 559 145 698</p>
+       <p>School Email:</p>
+       <p>dcs@ug.edu.gh</p>
+      </div>
+      <div>
+       <p>Location:</p>
+       <p>University Of Ghana, Legon Campus</p>
+       <p>Opposite Mathematics Department</p>
+      </div>
+      <div>
+       <p>To Recieve Department Updates and News:</p>
+       <div class="form-box">
+         <label for="email"  id="label-email">
+           <p>Email</p>
+         </label>
+         <input type="text" id="email" placeholder="Enter your email">
+         <button class="form-button">Send</button>
+       </div>
+      </div>
+</body>
+</html>
