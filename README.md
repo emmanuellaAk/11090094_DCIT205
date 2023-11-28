@@ -23,13 +23,28 @@ The ten pages have been listed below:
 First of all I forked the repository by going to the public repository and created a fork by clciking on "create fork". Then I cloned it to my local repository by using the git command "git clone" with the repository's URL. To ensure that this was succesful, I used the command "git remote -v" and it returned the Url link of the repository.
 
 # Website Layout
+
+##Home Page
 ![althomepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/homepic.jpeg)
+
 
 ![altaboutpage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/aboutpic.jpeg)
 
 ![altadmissionspage](
-  https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/admissions%20pic.jpeg
-)
+  https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/admissions%20pic.jpeg)
 
+![altgraduatepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/graduate.jpeg)
 
+![altundergraduatepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/undergraduatepic.jpeg)
+
+![altcompssapage](
+  https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/compsaapic.jpeg)
+
+![altshortcoursespage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/Shortcoursespic.jpeg)
+
+![altfacultypage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/facultypic.jpeg)
+
+![eventspage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/eventspic.jpeg)
+
+![resourcepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/resourcepic.jpeg)
 
