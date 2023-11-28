@@ -48,7 +48,7 @@ First of all I forked the repository by going to the public repository and creat
 ![altshortcoursespage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/Shortcoursespic.jpeg)
 
 ## Faculty Page
-![altfacultypage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/facultypic.jpeg)
+![altfacultypage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/faultypic.jpeg)
 
 ## Events Page
 ![eventspage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/eventspic.jpeg)
