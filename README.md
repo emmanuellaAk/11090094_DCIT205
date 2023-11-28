@@ -25,5 +25,11 @@ First of all I forked the repository by going to the public repository and creat
 # Website Layout
 ![althomepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/homepic.jpeg)
 
+![altaboutpage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/aboutpic.jpeg)
+
+![altadmissionspage](
+  https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/admissions%20pic.jpeg
+)
+
 
 
