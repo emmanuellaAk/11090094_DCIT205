@@ -42,7 +42,7 @@ First of all I forked the repository by going to the public repository and creat
 
 ## Compssa Page
 ![altcompssapage](
-  https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/compsaapic.jpeg)
+  https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/compssapic.jpeg)
 
 ## Short Courses Page
 ![altshortcoursespage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/Shortcoursespic.jpeg)
