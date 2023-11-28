@@ -24,27 +24,35 @@ First of all I forked the repository by going to the public repository and creat
 
 # Website Layout
 
-##Home Page
+## Home Page
 ![althomepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/homepic.jpeg)
 
-
+## About Page
 ![altaboutpage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/aboutpic.jpeg)
 
+## Admissions Page
 ![altadmissionspage](
   https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/admissions%20pic.jpeg)
 
+## Graduate Page
 ![altgraduatepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/graduate.jpeg)
 
+## Under Graduate Page
 ![altundergraduatepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/undergraduatepic.jpeg)
 
+## Compssa Page
 ![altcompssapage](
   https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/compsaapic.jpeg)
 
+## Short Courses Page
 ![altshortcoursespage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/Shortcoursespic.jpeg)
 
+## Faculty Page
 ![altfacultypage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/facultypic.jpeg)
 
+## Events Page
 ![eventspage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/eventspic.jpeg)
 
+## Resource Page
 ![resourcepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/resourcepic.jpeg)
 
