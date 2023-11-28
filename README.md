@@ -38,7 +38,7 @@ First of all I forked the repository by going to the public repository and creat
 ![altgraduatepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/graduate.jpeg)
 
 ## Under Graduate Page
-![altundergraduatepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/undergraduatepic.jpeg)
+![altundergraduatepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/undergraduatepic%20(2).jpeg)
 
 ## Compssa Page
 ![altcompssapage](
