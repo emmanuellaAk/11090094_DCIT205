@@ -56,3 +56,20 @@ First of all I forked the repository by going to the public repository and creat
 ## Resource Page
 ![resourcepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/resourcepic.jpeg)
 
+# What I learnt 
+1. Git Proficiency:I learned how to use Git, which helped me copy projects (clone repositories) and start new ones. It's like a toolkit for managing my code.
+
+2. **GitHub Understanding:** I got the hang of GitHub, a place where my code can live and where my team and I can work together smoothly.
+
+3. **Easy HTML and CSS:**  I discovered the simplicity of employing various tags and properties in HTML and CSS, facilitating efficient coding practices.
+
+4. **Form Making Skills:** I got really good at creating functional forms. It's like creating spaces for people to interact with my website.
+
+5. **Links:** I learnt how to create links that would lead me to different pages on the internet or files in the same folder and also how to design such links. eg. turn them into buttons
+
+6. **VSCode Version Control:** I now know how to save and share my code directly from Visual Studio Code, making it simple to keep track of changes.
+
+7. **Flexbox Magic:** I learnt how the flexbox works. It helps in making flexible and responsive designs for my website.
+
+8. **Organized Files:** I acquired the skill of organizing project files into structured folders, optimizing accessibility and ease of navigation for efficient project management..
+ 
