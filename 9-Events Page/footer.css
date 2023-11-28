@@ -1,14 +1,16 @@
 .footer{
-  width: 100%;
+  padding-left: 5px;
+  padding-right: 5px;
+  border: 3px black solid;
   display: flex;
   flex-direction: row;
-  height: 250px;
-  background-color: white;
-  color: #2c2a58;
+  margin-top: 8px;
+  height: 150px;
+  background-color: #BD9C6C;
+  color: white;
   font-family: poppins, sans-serif;
   justify-content: space-between;
-  font-weight: bold;
-  font-size: 20px;
+  z-index: 1;
  
 }
 .form-box{
