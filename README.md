@@ -20,7 +20,10 @@ The ten pages have been listed below:
 
 
 # Cloning And Setting Up The Project
-First of all I forked the repository by going to the public repository and created a fork by clciking on "create fork". Then I cloned it to my local repository by using the git command "git clone" with the repository's URL. To ensure that this was succesful, I used the command "git remote -v" and it returned the Url link of the repository. 
+First of all I forked the repository by going to the public repository and created a fork by clciking on "create fork". Then I cloned it to my local repository by using the git command "git clone" with the repository's URL. To ensure that this was succesful, I used the command "git remote -v" and it returned the Url link of the repository.
+
+# Website Layout
+![althomepage](https://github.com/emmanuellaAk/11090094_DCIT205/blob/main/homepic.jpeg)
 
 
 
